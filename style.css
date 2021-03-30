@@ -1,0 +1,156 @@
+
+.head{
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+
+  background-color:cadetblue;
+}
+  
+  .grid {
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    justify-content: last baseline;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  
+  .camel {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+  }
+  
+  
+  .chameleon {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+  }
+  
+  .cicada {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+  }
+  
+  .panda {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+  }
+  
+  .pigeon {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+  }
+  
+  .teddy {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+  }
+  
+  .cat {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+  }
+  
+  .swan {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+  }
+  
+
+
+.grid img{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid rgb(104, 100, 100);
+  border-radius: 50px;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+a:link{
+    color: blue;
+ }
+ a:visited{
+     color: darkblue;
+ }
+ a:hover{
+     color: lightblue;
+ }
+ .chameleon:hover img{
+  box-shadow: 0 0 20px 5px #06c;
+
+ 
+}
+.camel:hover img{
+  box-shadow: 0 0 20px 5px #06c;
+
+}
+.cat:hover img{
+  box-shadow: 0 0 20px 5px #06c;
+
+}
+.swan:hover img{
+  box-shadow: 0 0 20px 5px #06c;
+
+ 
+}
+.teddy:hover img{
+
+  box-shadow: 0 0 20px 5px #06c;
+ 
+}
+.cicada:hover img{
+
+  box-shadow: 0 0 20px 5px #06c;
+ 
+}
+ .panda:hover img{
+
+  box-shadow: 0 0 20px 5px #06c;
+ 
+} 
+.pigeon:hover img{
+
+    box-shadow: 0 0 20px 5px #06c;
+ 
+}
+
+.header{
+  padding: 30px;
+  margin-top: 30px;
+  background: linear-gradient(yellow, red);background: linear-gradient( right, yellow, red);background: linear-gradient(to bottom right, yellow, red);background: linear-gradient(20deg, yellow, red);background: linear-gradient(hsl(0,100%,50%), hsl(60,100%,50%), hsl(120,100%,50%), hsl(180,100%,50%), hsl(240,100%,50%), hsl(300,100%,50%));  border: 20px solid rgb(185, 43, 43);
+}
+.links h1{
+  margin-left: 400px;
+  
+}
+body{
+
+
+}
